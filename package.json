@@ -1,13 +1,13 @@
 {
   "name": "swell-js",
-  "version": "4.2.4",
+  "version": "4.2.5",
   "description": "Swell JS library for client-side stores",
   "engines": {
     "node": ">=16"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/swellstores/swell-js"
+    "url": "git+https://github.com/swellstores/swell-js.git"
   },
   "license": "MIT",
   "type": "module",
