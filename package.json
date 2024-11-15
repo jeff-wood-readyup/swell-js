@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/swellstores/swell-js"
+    "url": "git+https://github.com/swellstores/swell-js.git"
   },
   "license": "MIT",
   "type": "module",
